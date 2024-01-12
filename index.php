@@ -39,5 +39,6 @@ include('registration.php');
       </form>
     </div>
 </section>
+    <footer>&copy;2024</footer>
   </body>
 </html>
